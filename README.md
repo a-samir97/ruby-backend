@@ -1,24 +1,7 @@
-# README
+# Lune Ruby Backend 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Disclaimer
+Please take in consideration that I didn't write Ruby code in my life as most of my experience in Python
+(so it took me some time to learn Ruby fast)
 
-Things you may want to cover:
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
