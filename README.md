@@ -8,3 +8,6 @@ Please take in consideration that I didn't write Ruby code in my life as most of
 # Improvments
 - Use `Docker`
 - Change `Author`, `Country`, `Filming_location`, `director` to Model instead of string field in Movie Field 
+
+# How to run the project ?
+- `rails server`
